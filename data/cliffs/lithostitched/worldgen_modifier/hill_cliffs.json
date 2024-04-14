@@ -1,6 +1,0 @@
-{
-  "type": "lithostitched:add_features",
-  "biomes": "#minecraft:is_hill",
-  "features": "cliffs:stone_cliff",
-  "step": "top_layer_modification"
-}
