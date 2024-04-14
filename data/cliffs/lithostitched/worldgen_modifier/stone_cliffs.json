@@ -1,0 +1,6 @@
+{
+  "type": "lithostitched:add_features",
+  "biomes": "#cliffs:has_stone_cliffs",
+  "features": "cliffs:stone_cliff",
+  "step": "top_layer_modification"
+}
