@@ -1,0 +1,10 @@
+{
+  "type": "lithostitched:add_features",
+  "biomes": [
+    "minecraft:plains",
+    "minecraft:snowy_plains",
+    "minecraft:sunflower_plains"
+  ],
+  "features": "cliffs:stone_cliff",
+  "step": "top_layer_modification"
+}
