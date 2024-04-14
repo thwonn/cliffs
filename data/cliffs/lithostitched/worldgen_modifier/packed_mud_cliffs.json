@@ -1,0 +1,6 @@
+{
+  "type": "lithostitched:add_features",
+  "biomes": "#cliffs:has_packed_mud_cliffs",
+  "features": "cliffs:packed_mud_cliff",
+  "step": "top_layer_modification"
+}
